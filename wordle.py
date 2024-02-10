@@ -8,7 +8,6 @@ possible_answers = get_answers()
 
 def run():
     answer = random.choice(possible_answers)
-    print(answer)
 
     print("Guess a word:\n")
 
