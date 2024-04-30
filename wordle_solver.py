@@ -19,7 +19,7 @@ def run():
         if x != 0:
             possible_guesses = allowed_guesses
         else:
-            possible_guesses = ["risen"]
+            possible_guesses = ["stare"]
     
         for word_to_guess in possible_guesses:
             temp_eval_map = {}
