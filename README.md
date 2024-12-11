@@ -16,7 +16,7 @@ This project contains a console-based Wordle game and a Wordle solver. The user 
    cd wordle-solver
    ```
 
-2. Ensure you have Python installed (version 3.6 or higher).'
+2. Ensure you have Python installed (version 3.6 or higher).
 
 ## Usage
 
@@ -28,7 +28,7 @@ Run the following command to play the game manually:
 python wordle.py
 ```
 
-### Running the SOlver
+### Running the Solver
 
 Run the following command to let the computer solve the game:
 
